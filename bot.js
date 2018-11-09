@@ -1,16 +1,17 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix = "1";
+var prefix = "1say#credits @! vM,Ahmeed,Șɱ#5209 1000
+EMAIL ";
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
 });
 
 client.on('ready', async() => {
-var server = "509357857666236430"; // ايدي السررفر
-var channel = "509357857666236434";//ايدي الروم
+var server = "509357857666236430"; // 509339028206649346
+var channel = "509357857666236434";//509339028206649350
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send('**Ahmeed , Ahmeed , Ahmeed , Ahmeed , Ahmeed , Ahmeed , I , Love , them , so , Mush , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
     },305);
 })
 
